@@ -64,6 +64,9 @@ function Menu() {
   return (
     <>
       <h2>Our Menu</h2>
+
+      <div></div>
+
       <Pizza />
       <Pizza />
       <Pizza />
