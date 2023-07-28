@@ -49,6 +49,8 @@ export default function App() {
   );
 }
 
+// Getting an error with this
+
 function StepMessage(step, children) {
   return (
     <div className='message'>
